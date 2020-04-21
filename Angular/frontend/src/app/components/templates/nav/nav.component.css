@@ -1,0 +1,22 @@
+.sidenav {
+    background-color: black;
+    width: 200px;
+}
+
+.sidenav a {
+    color: white;
+}
+
+.sidenav a:hover {
+    background-color: tomato;
+}
+
+.sidenav i {
+    padding-right: 10px;
+}
+
+.content {
+    color: black;
+    padding: 16px;
+    background-color: white;
+}
